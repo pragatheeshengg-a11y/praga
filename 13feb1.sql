@@ -10,3 +10,4 @@ ON t.book_ref=b.book_ref;
  SELECT a.aircraft_code,a.model,a.range
  FROM aircrafts a;
 
+
